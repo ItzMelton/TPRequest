@@ -1,2 +1,3 @@
 # TPRequest
-A TShock terraria plugin for terraria
+Used for survival terraria servers, request/accept/reject players using available commands.
+Tele
