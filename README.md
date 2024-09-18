@@ -11,8 +11,8 @@ TPRequest v1.0.0
 
 # Instructions
 ## Commands
-`/tpa <player>` Request a player to teleport you to that player's location
-`/tpaccept` Accept the current requesting player (usable when you are requested)
+`/tpa <player>` Request a player to teleport you to that player's location             
+`/tpaccept` Accept the current requesting player (usable when you are requested)            
 `/tpreject` Reject the current requesting player (usable when you are requested)
 
 ## Permissions
@@ -21,6 +21,6 @@ TPRequest v1.0.0
 2. Add the permission `/group addperm <groupName> <perm>`
 
 ### Permissions List
-`tpa.request` for `/tpa` 
-`tpa.accept` for `/tpaccept`
-`tpa.reject` for `/tpreject`
+`tpa.request` perm for `/tpa`              
+`tpa.accept` perm for `/tpaccept`          
+`tpa.reject` perm for `/tpreject`
